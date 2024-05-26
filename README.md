@@ -61,7 +61,8 @@ This project demonstrates the following OOP concepts:
 
 - **Seat**: Represents aircraft seats with attributes like seat number, class, and availability status.
 
-#Here is the project's Schema
+# Here is the project's Schema
+
 ![schema](schema.jpg)
 ## Usage
 
