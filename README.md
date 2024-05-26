@@ -1,6 +1,6 @@
-# Airline Reservation System
+# Flight Reservation System
 
-![Airline Reservation System](path-to-your-image.jpg)
+![Flight Reservation System](path-to-your-image.jpg)
 
 ## Table of Contents
 
