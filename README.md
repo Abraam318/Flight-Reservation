@@ -1,6 +1,6 @@
 # Flight Reservation System
 
-![Flight Reservation System](path-to-your-image.jpg)
+![Flight Reservation System](Flight_bg.png)
 
 ## Table of Contents
 
@@ -61,6 +61,7 @@ This project demonstrates the following OOP concepts:
 
 - **Seat**: Represents aircraft seats with attributes like seat number, class, and availability status.
 
+### Here is the project's Schema (Schema.jpg)
 ## Usage
 
 To use the Airline Reservation System, follow these steps:
@@ -85,8 +86,4 @@ To use the Airline Reservation System, follow these steps:
 
 We welcome contributions! Please fork the repository and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License.
-
-![Flight reservation System](path-to-another-image.jpg)
