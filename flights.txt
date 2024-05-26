@@ -1,0 +1,45 @@
+Airlines: EGYPTAIR
+Flight Number: FL001
+Departure Airport: Alexandria
+Arrival Airport: Luxor
+Departure Time: 08:00
+Arrival Time: 12:00
+Available Seats: 100
+Price: 4900.0
+------------------------
+Airlines: AIRCAIRO
+Flight Number: FL002
+Departure Airport: Cairo
+Arrival Airport: Alexandria
+Departure Time: 14:00
+Arrival Time: 18:00
+Available Seats: 75
+Price: 4500.0
+------------------------
+Airlines: ALMASRIA
+Flight Number: FL003
+Departure Airport: Cairo
+Arrival Airport: Roma
+Departure Time: 10:30
+Arrival Time: 14:30
+Available Seats: 20
+Price: 5000.0
+------------------------
+Airlines: NILEAIR
+Flight Number: FL004
+Departure Airport: Saudia
+Arrival Airport: Cairo
+Departure Time: 10:30
+Arrival Time: 14:30
+Available Seats: 60
+Price: 5800.0
+------------------------
+Airlines: ef
+Flight Number: eg11
+Departure Airport: cairo
+Arrival Airport: roma
+Departure Time: 12
+Arrival Time: 1
+Available Seats: 19
+Price: 100.0
+------------------------
