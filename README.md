@@ -1,6 +1,6 @@
 # Flight Reservation System
 
-![Flight Reservation System](path-to-your-image.jpg)
+![Flight Reservation System](Flight_bg.png)
 
 ## Table of Contents
 
