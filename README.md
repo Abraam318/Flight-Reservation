@@ -10,7 +10,6 @@
 - [Class Descriptions](#class-descriptions)
 - [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
 
 ## Introduction
 
