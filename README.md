@@ -11,7 +11,6 @@
 - [Usage](#usage)
 - [Installation](#installation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -83,8 +82,6 @@ To use the Airline Reservation System, follow these steps:
     cd Flight-reservation
     ```
 3. Compile and run the project.
-
-## Contributing
 
 We welcome contributions! Please fork the repository and submit a pull request.
 
