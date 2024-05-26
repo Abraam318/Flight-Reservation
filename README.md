@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Welcome to the Airline Reservation System! This project was developed as part of the Object-Oriented Programming (OOP) course at our university. It is a comprehensive system that manages flights, passengers, bookings, payments, and more.
+Welcome to the Flight Reservation System! This project was developed as part of the Object-Oriented Programming (OOP) course at FCIS Ain Shams University. It is a comprehensive system that manages flights, passengers, bookings, payments, and more.
 
 ## Features
 
@@ -73,11 +73,11 @@ To use the Airline Reservation System, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/airline-reservation-system.git
+    git clone https://github.com/abraam318/Flight-reservation.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd airline-reservation-system
+    cd Flight-reservation
     ```
 3. Compile and run the project.
 
@@ -89,4 +89,4 @@ We welcome contributions! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License.
 
-![Airline Reservation System](path-to-another-image.jpg)
+![Flight reservation System](path-to-another-image.jpg)
